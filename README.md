@@ -1,5 +1,5 @@
 # Left join 
-O left join faz a junção entre tabelas onde a tabela a esquerda retorna todas os dados e a 
+O left join faz a junção entre tabelas onde a tabela a esquerda retorna todos os dados e a 
 tabela a direita retorna os dados que possuem igualdade com os dados da tabela a esquerda. Segue 
 um exemplo prático:
 
@@ -11,7 +11,7 @@ Na imagem 2, temos a tabela_2 que possui dados de cpf e estado:
 
 ![image](https://github.com/jucafernando/joins/assets/21082881/4629fa0c-c2f4-4267-a329-9f837c2bbe17)
 
-Na imagem 3, temos uma query onde eu realizo a função left join entre a tabela_1 e tabela_2:
+Na imagem 3, temos uma query com a função left join entre a tabela_1 e tabela_2:
 
 
 ![image](https://github.com/jucafernando/joins/assets/21082881/e92fe10d-565d-45ac-8be2-5b9b1673b1fd)
@@ -36,11 +36,23 @@ querda e fazer os tratamentos que a área de negócio solicitar.
 
 # Right join:
 
-O right join faz a junção de tabelas com todos os dados da tabela a direita com os dados da tabela a esquerda que 
-combina
-
+O rigth join faz a junção entre tabelas onde a tabela a direita retorna todos os dados e a 
+tabela á esquerda retorna os dados que combinam com os dados da tabela a esquerda. Segue 
+exemplo: 
 
 ![image](https://github.com/jucafernando/joins/assets/21082881/21df18d7-9706-478a-aad0-bcbff24c86a1)
+
+Assim como acontece no left join, o right join faz com que retorne todos os dados e, as linhas que não possuem combinação 
+com a tabela á direita, retorna nulo.
+
+
+
+
+
+
+
+
+
 
 
 
