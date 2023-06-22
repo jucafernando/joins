@@ -45,7 +45,12 @@ exemplo:
 Assim como acontece no left join, o right join faz com que retorne todos os dados e, as linhas que não possuem combinação 
 com a tabela á direita, retorna nulo.
 
+# Full join
 
+O full join faz junção com todos os dados e retorna como resultado, a combinação das linhas entre ambas as tabelas:
+
+
+![image](https://github.com/jucafernando/joins/assets/21082881/23c5daf9-488e-4539-8ee3-fd28f74c0357)
 
 
 
