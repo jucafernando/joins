@@ -52,6 +52,8 @@ O full join faz junção com todos os dados e retorna como resultado, a combina�
 
 ![image](https://github.com/jucafernando/joins/assets/21082881/23c5daf9-488e-4539-8ee3-fd28f74c0357)
 
+Como resultado, temos os dados onde as linhas se combinam e as linhas que não combinam, retorna como nulo. 
+
 
 
 
